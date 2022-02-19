@@ -1,2 +1,0 @@
-# idrciyc
-website
