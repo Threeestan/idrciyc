@@ -1,7 +1,21 @@
 h1
 {
-	color:  whitesmoke;
+	color:  antiquewhite;
+	border-bottom: solid;
+	border-bottom-color: antiquewhite;
+	border-bottom-width: thin;
+	border-top: solid;
+	border-top-color: antiquewhite;
+	border-top-width: thin;
+	
+
 }
+h2
+{
+	color:  antiquewhite;
+
+}
+
 
 body
 {
